@@ -3,6 +3,12 @@
 
 Clima is a weather iOS application built using Swift and UIKit. It allows users to check the current weather conditions and forecast for various locations worldwide. The application utilizes the OpenWeather API to fetch weather data and provides an intuitive user interface for an enhanced weather experience.
 
+<h2>ScreenShots</h2>
+
+<img width="174" alt="Clima-light-removebg-preview" src="https://github.com/Sandalu2001/Clima-IOS-application/assets/86417299/6c4f07f3-9396-4295-8997-95573a8dc9b3">
+
+<img width="175" alt="clima" src="https://github.com/Sandalu2001/Clima-IOS-application/assets/86417299/2b2a1fb4-d467-4cb7-840d-0f0ea9ad3c31">
+
 <h2>Features</h2>
 
 <ol>
